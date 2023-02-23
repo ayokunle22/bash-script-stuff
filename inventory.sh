@@ -4,7 +4,7 @@
 # This is just to get some inventory
 
 echo "what is my position on this server? "
-sleep 10
+sleep 5
 echo "answer: $(pwd)"
 sleep 5
 
